@@ -14,5 +14,8 @@ while a>=z:
     x=y
     y=z
     z=x+y
-print("fibbonacci series",z)    
+print("fibbonacci series",z) 
+
+print("Hello GitHub")
+print("Welcome")
 
