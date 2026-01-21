@@ -16,6 +16,13 @@ while a>=z:
     z=x+y
 print("fibbonacci series",z) 
 
-print("Hello GitHub")
-print("Welcome")
+# find where vowel replace "*" remaining consonant should be print as it is ---
+a="janvi and gayatri"
+n=""
+for i in a:
+    if i in "aeiou":
+        n=n+"*"
+    else:
+        n+=i
+print("all word",n)    
 
