@@ -1,11 +1,11 @@
-# factorial number
+# 1 factorial number
 a=1
 for i in range(1,6):
     a=a*i
 print("this is factorial number",a)   
 
 
-#fibbonacci series
+# 2 fibbonacci series
 a=5
 x=0
 y=1
@@ -16,7 +16,7 @@ while a>=z:
     z=x+y
 print("fibbonacci series",z) 
 
-# find where vowel replace "*" remaining consonant should be print as it is ---
+# 3 find where vowel replace "*" remaining consonant should be print as it is ---
 a="janvi and gayatri"
 n=""
 for i in a:
