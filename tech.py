@@ -26,3 +26,4 @@ for i in a:
         n+=i
 print("all word",n)    
 
+print("hello")
